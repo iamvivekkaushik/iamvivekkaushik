@@ -4,7 +4,7 @@ I am a 23 years old developer based in India 🇮🇳. I make apps, open source 
 
 Check out my github for new open source libraries.
 
-- 🔭 I’m currently working on Flutter :iphone:, Django :computer:
+- 🔭 I’m currently working on Flutter :iphone:, FastAPI :computer:
 - 👯 Have a cool project in mind? Let's collaborate. 
 - 💬 Ask me about Flutter, Android, Django, or some frontend stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iamvivekkaushik/), [Twitter](https://twitter.com/iamvivekkaushik), [Instagram](https://www.instagram.com/iamvivekkaushik)
