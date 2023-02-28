@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 24 years old developer based in India 🇮🇳. I make apps, open source programs and libraries. I love building things, creating something new, solving problems,  watching movies (Marvel Fan 🤭) and listening to Taylor Swift 💃🏼. 
+I am a 25 years old developer based in India 🇮🇳. I make apps, open source programs and libraries. I love building things, creating something new, solving problems,  watching movies (Marvel Fan 🤭) and listening to Taylor Swift 💃🏼. 
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvivekkaushik&count_private=true&show_icons=true&theme=tokyonight)
 
